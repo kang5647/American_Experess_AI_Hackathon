@@ -15,7 +15,7 @@ Our approach involved several key steps:
 
 ## Key Technologies
 - **Data Analysis and Preprocessing**: Python, Pandas, NumPy
-- **Machine Learning/Deep Learning**: Scikit-learn, PyTorch, pytorch-tabnet
+- **Machine Learning/Deep Learning**: Scikit-learn, PyTorch, Pytorch-tabnet
 - **Data Visualization**: Matplotlib, Seaborn
 
 ## Results
